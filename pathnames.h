@@ -12,7 +12,7 @@
  * called by a name other than "ssh" or "Secure Shell".
  */
 
-#define ETCDIR				"/etc"
+#define ETCDIR				"/usr/etc"
 
 #ifndef SSHDIR
 #define SSHDIR				ETCDIR "/ssh"
